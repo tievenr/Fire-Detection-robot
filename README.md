@@ -1,4 +1,3 @@
-# talos-project
 Fire detection mobile robot using ros2 and gazebo
 
 ## Folder Structure
@@ -42,5 +41,5 @@ python ros_recognition_yolo.py
 ```
 
 ## Video of the implementation
-https://github.com/t8140140/talos-project/assets/15681263/8a96e4f3-48ad-4b51-9b8e-1a91fc2dcaf8
+(https://drive.google.com/drive/folders/16vmX6tbv9aaUFKa3wJMmi-QKJbnHgICX)
 
